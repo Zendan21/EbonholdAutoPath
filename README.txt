@@ -60,8 +60,3 @@ Troubleshooting
 Open the Skill Tree and run:
 
   /eap status
-
-A healthy result should show a non-zero graph link count and visible node-button
-count. If the graph has links but clicking a locked later node does nothing, send
-me the /eap status output and whether that locked node reacts to a normal click;
-that tells us whether Ebonhold disables mouse input on locked node buttons.
