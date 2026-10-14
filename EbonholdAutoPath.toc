@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff7dd3fcEbonhold Auto Path|r
+## Notes: Clicking a later Project Ebonhold Skill Tree node automatically fills its prerequisite path first.
+## Author: OpenAI / Zendan
+## Version: 0.2.0
+## Dependencies: ProjectEbonhold
+## OptionalDeps: SkillTreeAutoLoad, EHTweaks, EbonholdSkillTree
+## SavedVariables: EbonholdAutoPathDB
+
+EbonholdAutoPath.lua
